@@ -87,7 +87,7 @@ Released Parties are not responsible for any claims, damages, expenses, costs or
 
 ### Privacy:
 
-Any information you provide is subject to New Relic's privacy policy posted at (https://newrelic.com/termsandconditions/privacy).
+Any information you provide is subject to New Relic's privacy policy posted at https://newrelic.com/termsandconditions/privacy.
 
 
 ### General:
